@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\projects\\python\\image-prossing\\Detection of sudoku puzzles",
+  "password": false,
+  "pid": 1504,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "2548178d71c6b9aba27b1949a5c2c9d45922a19adbeefc92",
+  "url": "http://localhost:8888/"
+}

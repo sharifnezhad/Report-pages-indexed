@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 5352,
+  "port": 8888,
+  "root_dir": "D:\\projects\\python\\image-prossing",
+  "secure": false,
+  "sock": "",
+  "token": "2e17132b15e80c3c03e764f8679c89561ee2ef5cc3b44f04",
+  "url": "http://localhost:8888/",
+  "version": "1.12.1"
+}

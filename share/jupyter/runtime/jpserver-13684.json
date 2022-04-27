@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 13684,
+  "port": 8888,
+  "root_dir": "C:\\Users\\Arena",
+  "secure": false,
+  "sock": "",
+  "token": "4d0832356506fe1dcc2a20fa08ac1acdedf67ae7bb1f64bf",
+  "url": "http://localhost:8888/",
+  "version": "1.12.1"
+}
